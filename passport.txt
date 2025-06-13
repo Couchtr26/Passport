@@ -1,7 +1,0 @@
-Name: Thomas
-Location: Oklahoma
-Age in 5 years: 50
-Eligible to Vote: Yes
-Eligible to Drink: Yes
-Traveling to Visit: Thailand
-You will be 46 years old in 2026
