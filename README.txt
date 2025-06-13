@@ -31,3 +31,5 @@ The file includes:
 - None (this is raw text data file)
 
 ---
+
+Copyright (c) 2025 Couchtr26
